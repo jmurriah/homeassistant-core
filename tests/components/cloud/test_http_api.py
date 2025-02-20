@@ -1966,7 +1966,7 @@ async def test_download_support_package(
                 "dev": False,
                 "hassio": False,
                 "virtualenv": False,
-                "python_version": "3.13.1",
+                "python_version": "3.13.2",
                 "docker": False,
                 "arch": "x86_64",
                 "timezone": "US/Pacific",
